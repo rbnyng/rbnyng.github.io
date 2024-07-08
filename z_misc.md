@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-image: banner_images\bn2.webp
+image: banner_images\bn3.webp
 ---
 
 Here are some miscellaneous things that I have made for fun:
