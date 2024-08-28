@@ -26,7 +26,7 @@ image: banner_images\bn2.webp
 -->
 
 <section>
-    <p>Please feel free to reach out to me if you would like to talk about something. Email is the best way to reach me.</p>
+    <p>Please feel free to reach out to me if you would like to talk. Email is the best way to reach me.</p>
 </section>
 
 <ul class="icons">
