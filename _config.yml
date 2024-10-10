@@ -1,6 +1,6 @@
 # Site settings
 title: Robin Young
-email: test@gmail.com
+email: robin.young@cl.cam.ac.uk
 description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -12,7 +12,7 @@ zip_code:
 country: United States of America
 phone:
 
-icon: fa-mountain-sun # Font Awesome class for your site's icon
+icon: fa-mountain-sun
 
 # Social settings
 facebook_url:

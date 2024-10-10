@@ -1,2 +1,8 @@
 User-agent: *
-Disallow: /assets/
+Disallow: /assets
+Disallow: /#about
+Disallow: /#contact
+Disallow: /#Publications
+Disallow: /#Resume
+Disallow: /#Miscellaneous
+Allow: /#
